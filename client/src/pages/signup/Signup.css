@@ -1,0 +1,15 @@
+.main_container {
+    max-width: 350px;
+    margin: 10px auto;
+    border: 0.5px solid grey;
+    padding: 1.5rem 2rem;
+}
+
+.navigation_container > p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.navigation_container a {
+    text-decoration: none;
+}

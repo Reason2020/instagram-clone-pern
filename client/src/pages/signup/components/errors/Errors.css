@@ -1,0 +1,11 @@
+.error_container {
+    background-color: #e71d18;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.error_text {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
